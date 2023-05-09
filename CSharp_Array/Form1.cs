@@ -16,5 +16,10 @@ namespace CSharp_Array
         {
             InitializeComponent();
         }
+
+        private void test()
+        {
+            
+        }
     }
 }
